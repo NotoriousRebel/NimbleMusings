@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimSharpSploitMapper", "NimSharpSploitMapper.csproj", "{1BBE77BF-D86A-479E-86AF-45CAC417EF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Debug|x64.ActiveCfg = Debug|x64
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Debug|x64.Build.0 = Debug|x64
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Release|x64.ActiveCfg = Release|x64
+		{1BBE77BF-D86A-479E-86AF-45CAC417EF01}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A51B7459-C5CE-45C6-9956-0DD19A1D3839}
+	EndGlobalSection
+EndGlobal
